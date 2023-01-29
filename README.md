@@ -1,7 +1,10 @@
-### Hi there 👋
-I'm Blake Myers.
-I am currently studying C# from WGU and the C# Academy. I should graduate by the end of 2023.
-I am currently looking for either a full time job or an internship
+### Hi there 👋 
+I'm Blake Myers.\
+\
+I am currently studying C# from WGU and the C# Academy. I should graduate by the end of 2023.\
+\
+I am currently looking for either a full time job or an internship\
+\
 Feel free to reach out to me at Blakecmyers@gmail.com
 
 <!--
